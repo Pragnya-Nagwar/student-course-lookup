@@ -1,0 +1,5 @@
+package net.studentcourse.springboot.cotroller;
+
+public class TermController {
+
+}
